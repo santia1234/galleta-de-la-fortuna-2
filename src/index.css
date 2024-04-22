@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    margin: 0;
+
+}
+h1, h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p {
+    color: white;
+}
+button {
+    font-family: inherit;
+    outline: none;
+    cursor: pointer;
+}
